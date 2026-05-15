@@ -26,3 +26,14 @@
     height: auto;
     display: block;
 }
+
+.sobreposicao{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0,0.3);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
