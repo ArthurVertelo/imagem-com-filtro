@@ -14,3 +14,15 @@
     box-shadow: .3rem .3rem .3rem .3rem rgb(181, 180, 180);
     padding: 1rem;
 }
+
+.painel{
+    position: relative;
+    border-radius: .5rem;
+    overflow: hidden;
+}
+
+.imagem{
+    width: 100%;
+    height: auto;
+    display: block;
+}
